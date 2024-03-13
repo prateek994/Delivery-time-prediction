@@ -9,10 +9,7 @@ AUTHOR_NAME = "Prateek Maurya"
 AUTHOR_EMAIL = "mauryaprateek8@gmail.com"
 
 
-
 REQUIREMENTS_FILE_NAME = "requirements.txt"
-
-
 
 HYPHEN_E_DOT = "-e ."
 
