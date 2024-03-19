@@ -2,4 +2,6 @@ pandas
 numpy
 Flask
 scikit-learn
+dataclasses
+xgboost
 -e .
